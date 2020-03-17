@@ -1,0 +1,15 @@
+com\cai\encryptutil\controller\WeatherApi.class
+com\cai\encryptutil\util\DataAdapter.class
+com\cai\encryptutil\model\LuggageInfoVo.class
+com\cai\encryptutil\model\FlightInfos.class
+com\cai\encryptutil\model\LuggageAllProcessReqVo.class
+com\cai\encryptutil\configuration\RestTemplateConfig.class
+com\cai\encryptutil\model\LuggageFlightInfoVo.class
+com\cai\encryptutil\model\LuggageOpEventVo.class
+com\cai\encryptutil\controller\PackageController.class
+com\cai\encryptutil\controller\ApiTestController.class
+com\cai\encryptutil\model\MQWeatherInfo.class
+com\cai\encryptutil\model\FlyInfoModel.class
+com\cai\encryptutil\EncryptUtilApplication.class
+com\cai\encryptutil\model\AirWeatherInfoModel.class
+com\cai\encryptutil\model\SeatReq.class
