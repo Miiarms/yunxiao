@@ -55,6 +55,9 @@ public class WeatherApi {
         return (new String(out.toByteArray(), "utf-8"));
     }
 
-
+    @RequestMapping("/")
+    public String home(){
+        return "你好啊，大傻吊！！";
+    }
 
 }
